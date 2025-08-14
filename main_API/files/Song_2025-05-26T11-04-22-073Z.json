@@ -1,0 +1,11 @@
+[
+  {
+    "Songidee": "Titel: \"Energie der Zukunft\"  \nStil: Moderner, technischer Pop mit bestdruckvollen Beat und Sphärenklängen.  \nText: Thematisiert Fortschritt, Umweltschutz undTableViewCell enticing Melodien.",
+    "Begründung": "Diese Songidee passt perfekt zu Unternehmen im Bereich Energie- und Anlagenbau, da sie Innovation, Effizienz und Nachhaltigkeit in den Vordergrund stellt. Der Titel \"Energie der Zukunft\" spiegelt die Zielsetzung des Unternehmens wider, wegweisend in der Energiebranche zu sein. Die Mischung aus modernen und teknischen Elementen im Musikstil_exceptreflektiert die Leistungsfähigkeit und das qualitative Angebot des Unternehmens. Die überwältigenden Melodien und klaren Texteậcilen, eine positive Verbindung zwischen Fortschritt und Umweltbewusstsein herzustellen. Durch diese Kombination wird das Unternehmen in der Öffentlichkeit als verantwortungsbewusster und visionärer Akteur wahrgenommen – ein perfekter Spiegelbild der Unternehmenswerte.",
+    "Titel": "Energie der Zukunft",
+    "Lyrics": "",
+    "Description": "",
+    "Status": "neu",
+    "message": "/song/generate → 400: {\"error\":{\"message\":\"Invalid Request, The lyrics are empty.\"},\"trace_id\":\"6bc54e653fddf2f449a9ab3b437081f5\"}…"
+  }
+]

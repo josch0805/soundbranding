@@ -1,0 +1,87 @@
+/* Grundlayout */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #F5F5F5; /* Haupt-Hintergrund */
+    color: #333333;           /* Standard-Textfarbe */
+  }
+  
+  /* Container-Boxen mit Transparenz */
+  .container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 1200px;
+    border-radius: 8px;
+  }
+  
+  /* Überschriften */
+  h1, h2, h3, h4 {
+    font-family: 'Merriweather', serif;
+    margin-top: 0;
+    color: #111111;
+  }
+  
+  /* Links & Buttons */
+  a, .btn {
+    color: #007ACC;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  a:hover, .btn:hover {
+    color: #005FA3;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #007ACC;
+    color: #ffffff;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .btn:hover {
+    background-color: rgba(0, 122, 204, 0.85);
+  }
+  
+  /* Navigation */
+  .navbar {
+    background-color: #FFFFFFCC; /* 80 % Deckkraft */
+    backdrop-filter: blur(5px);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .navbar a {
+    font-weight: bold;
+    margin: 0 1rem;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #FFFFFFCC;
+    padding: 2rem 0;
+    text-align: center;
+    color: #555555;
+    font-size: 0.875rem;
+  }
+  
+  /* Medienanfragen (Responsive) */
+  @media (max-width: 768px) {
+    body {
+      font-size: 14px;
+    }
+    .container {
+      padding: 1rem;
+      margin: 0.5rem;
+    }
+  }
+  

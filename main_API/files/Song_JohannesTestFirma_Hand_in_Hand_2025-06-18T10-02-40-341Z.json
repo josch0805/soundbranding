@@ -1,0 +1,11 @@
+[
+  {
+    "Titel": "Hand in Hand",
+    "Songidee": "\"Hand in Hand\" ist ein mitreißender Punkrock-Song, der die Essenz von Zusammenarbeit und Unterstützung in der medizinischen Gemeinschaft widerspiegelt. Die Texte erzählen von der täglichen Herausforderung und dem unerschütterlichen Glauben an Heilung und Fortschritt. Die Musik ist energiegeladen, mitahyptischen Rhythmen und kraftvollen Gitarren, die das Gefühl des \"Wir-Gefühls\" und der Gemeinsamkeit unterstreichen. Der Refrain ist ein triumphierender Ruf nach Hoffnung und Zusammenhalt, der die Zuhörer zum Mitwippen einlädt.",
+    "Begründung": "Der Song \"Hand in Hand\" passt ideal zu der Zielgruppe von Patienten, Pflegenden, Gesundheitspersonal, Forschern und Studierenden, da er die zentralen Markenwerte wie Zusammenarbeit, Vielfalt und Integrität hervorhebt. Die musikalische Wahl des Punk Rock koppelt die emotionale Tiefe und Intensität mit einer energiegeladenen Klanglandschaft, die sowohl motivierend als auch einprägsam ist. Die Botschaft des Songs, die auf Kolkatawerk und Gemeinsamkeit setzt, ist universell und verbindet sich mit den Werten der Organisation.",
+    "Lyrics": "",
+    "Description": "",
+    "Status": "fehler",
+    "message": "/song/generate → 400: {\"error\":{\"message\":\"Invalid Request, The lyrics are empty.\"},\"trace_id\":\"3e50b7aeb73b4d96804e1a0600a97aad\"}…"
+  }
+]
